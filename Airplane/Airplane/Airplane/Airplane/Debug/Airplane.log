@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Flight.cpp
+  Generating Code...
+LINK : fatal error LNK1168: cannot open c:\users\owner\documents\visual studio 2017\Projects\Airplane\Debug\Airplane.exe for writing

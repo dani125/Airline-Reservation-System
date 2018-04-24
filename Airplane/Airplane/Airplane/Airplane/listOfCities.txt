@@ -1,0 +1,7 @@
+ATL	Atlanta
+ORL	Orlando
+DFW	Dallas/Forts Worth
+NYC	New York City
+HAW	Hawaii
+CHI	Chicago
+LAX	Los Angeles
